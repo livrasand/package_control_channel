@@ -283,6 +283,18 @@
 			]
 		},
 		{
+			"name": "FASTA",
+			"details": "https://github.com/SilentGene/sublime-fasta-syntax",
+			"labels": ["fasta", "language syntax", "bioinformatics"],
+			"author": "Heyu Lin",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "FASTBuild",
 			"details": "https://github.com/Manuzor/FASTBuild-Sublime",
 			"releases": [
@@ -987,17 +999,6 @@
 			]
 		},
 		{
-			"name": "Firewatch Color Scheme",
-			"details": "https://github.com/willsoto/firewatch-color-scheme",
-			"labels": ["color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Fis",
 			"details": "https://github.com/pianist829/fis-sublime-command",
 			"releases": [
@@ -1180,6 +1181,17 @@
 			]
 		},
 		{
+			"name": "Flexoki Color Scheme",
+			"details": "https://github.com/kepano/flexoki-sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Flight JS Snippets",
 			"details": "https://github.com/cameronhunter/flight-js-snippets",
 			"labels": ["snippets"],
@@ -1304,7 +1316,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"platforms": ["linux"],
+					"platforms": ["linux", "osx"],
 					"tags": true
 				}
 			]
