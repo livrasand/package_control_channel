@@ -1278,6 +1278,17 @@
 			]
 		},
 		{
+			"name": "Clannad Theme",
+			"details": "https://github.com/lemorage/sublime-clannad-theme",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Clarion",
 			"details": "https://github.com/fushnisoft/SublimeClarion",
 			"labels": ["language syntax"],
@@ -3875,6 +3886,17 @@
 		{
 			"name": "Cowsay",
 			"details": "https://github.com/adamchainz/SublimeCowsay",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "CP Parser",
+			"details": "https://github.com/hritikchaudhary/CPParser",
+			"labels": ["competitive-programming", "parser"],
 			"releases": [
 				{
 					"sublime_text": "*",
