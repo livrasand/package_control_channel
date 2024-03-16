@@ -1556,6 +1556,18 @@
 			]
 		},
 		{
+			"name": "PIO",
+			"details": "https://gitlab.com/patopest/Sublime-Text-PIO-Syntax",
+			"labels": ["language syntax"],
+			"author": "patopesto",
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Pipe Dream",
 			"details": "https://github.com/billymoon/Sublime-Pipe-Dream",
 			"releases": [
@@ -1592,6 +1604,18 @@
 				{
 					"sublime_text": ">=3000",
 					"platforms": "linux",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Pkl (Pickle)",
+			"details": "https://github.com/serjan-nasredin/pkl.tmbundle",
+			"author": "snxx",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
 					"tags": true
 				}
 			]
