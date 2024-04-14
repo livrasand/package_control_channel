@@ -2758,6 +2758,16 @@
 			]
 		},
 		{
+			"name": "Color Scheme Categorizer",
+			"details": "https://github.com/maxim/ColorSchemeCategorizer",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Color Schemes by carlcalderon",
 			"details": "https://github.com/carlcalderon/sublime-color-schemes",
 			"labels": ["color scheme"],
@@ -3109,6 +3119,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Comments-only Color Scheme",
+			"details": "https://github.com/cyevgeniy/sublime-comments-only",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -4757,6 +4778,18 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "CUE",
+			"details": "https://gitlab.com/patopest/Sublime-Text-Cuelang-Syntax",
+			"labels": ["language syntax"],
+			"author": "patopesto",
+			"releases": [
+				{
+					"sublime_text": ">=4107",
 					"tags": true
 				}
 			]
